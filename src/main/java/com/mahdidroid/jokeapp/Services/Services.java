@@ -1,4 +1,4 @@
-package com.mahdidroid.jokeapp;
+package com.mahdidroid.jokeapp.Services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
